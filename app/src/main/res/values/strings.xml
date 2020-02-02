@@ -1,0 +1,24 @@
+<resources>
+    <string name="appName">AstroWeather</string>
+    <string name="tabSun">Słońce</string>
+    <string name="tabMoon">Księżyc</string>
+
+    <string name="title_activity_settings">Ustawienia</string>
+    <string name="refresh">Odświeżanie [s]</string>
+    <string name="longitude">Długość geograficzna (longitude)</string>
+    <string name="latitude">Szerokość geograficzna (latitude)</string>
+
+    <string name="sunrise_time">Wschód słońca - czas</string>
+    <string name="sunrise_azimuth">Wschód słońca - azymut</string>
+    <string name="sunset_time">Zachód słońca - czas</string>
+    <string name="sunset_azimuth">Zachód słońca - azymut</string>
+    <string name="morning">Świt - czas</string>
+    <string name="evening">Zmierzch - czas</string>
+
+    <string name="moonrise_time">Wschód księżyca - czas</string>
+    <string name="moonset_time">Zachód księżyca - czas</string>
+    <string name="new_moon">Najbliższy nów</string>
+    <string name="full_moon">Najbliższa pełnia</string>
+    <string name="phase_of_the_moon">Faza księżyca [%]</string>
+
+</resources>

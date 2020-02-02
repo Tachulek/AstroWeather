@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="fontSizeTitle">24sp</dimen>
+    <dimen name="fontSize">16sp</dimen>
+    <dimen name="fontSizeSettings">18sp</dimen>
+    <dimen name="fontSizeSmall">14sp</dimen>
+
+    <dimen name="fontSizeTitle_LargeDevice">34sp</dimen>
+    <dimen name="fontSize_LargeDevice">26sp</dimen>
+    <dimen name="fontSizeSettings_LargeDevice">28sp</dimen>
+    <dimen name="fontSizeSmall_LargeDevice">24sp</dimen>
+</resources>
